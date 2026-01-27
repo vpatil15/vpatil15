@@ -6,18 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://vpatil15.github.io/Portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vaishnavipatil390">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/vpatil15">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=780&lines=Systems+%26+Infrastructure+%7C+OS+%7C+Concurrency+%7C+Distributed+Systems;Machine+Learning+%7C+Computer+Vision+%7C+AI+for+Security;I+build+reliable+systems+and+ship+end-to-end+projects" />
 </p>
 
