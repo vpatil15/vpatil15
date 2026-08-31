@@ -1,4 +1,4 @@
-
+## Vaishnavi Patil
 **MS Computer Science and Engineering @ Santa Clara University** · San Francisco, CA
 
 Software engineer with 4 years of industry experience building distributed backend systems and APIs. Currently focused on distributed systems, Agentic AI, and backend engineering.
