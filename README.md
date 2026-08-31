@@ -13,6 +13,7 @@ Software engineer with 4 years of industry experience building distributed backe
 | **Languages** | `Python` `Java` `Golang` `C` `C++` |
 | **Databases** | `PostgreSQL` `MongoDB` `DynamoDB` `Redis` `SQL` `Elasticsearch` |
 | **Cloud & DevOps** | `AWS` `Docker` `Kubernetes` `Jenkins` `Git` `Grafana` `Looker` |
+| **AI** | `LangGraph` `Docker` `RAG` `MCP` `Anthropic Claude` `LlamaIndex` |
 | **Frameworks** | `Spring Boot` `React` `Node.js` `FastAPI` `Flask` |
 | **Practices** | `Agile` `CI/CD` `DevOps` `Scrum` |
 ---
